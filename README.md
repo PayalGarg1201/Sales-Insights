@@ -204,5 +204,8 @@ Step 1: Publishing the report to the web version of PowerBI
 
 ![image](https://github.com/PayalGarg1201/Sales-Insights/assets/133757186/a4e8299e-891c-46c2-bf7e-6c1ddaab8aa4)
 
+![Data Analysis 6](https://github.com/PayalGarg1201/Sales-Insights/assets/133757186/73af4bfa-9745-4b3a-a1e4-3696b77f20ca)
 
+
+This is how it looks when you publish it on the website.
 
